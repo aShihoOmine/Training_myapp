@@ -3,6 +3,6 @@ defmodule MyappTest do
   doctest Myapp
 
   test "greets the world" do
-    assert Myapp.hello() == :worl
+    asser Myapp.hello() == :world
   end
 end
